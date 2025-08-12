@@ -2,16 +2,9 @@
 
 A lightweight circular indicator view library for Android
 
-[![](https://jitpack.io/v/ibrahimsn98/speedometer.svg)](https://jitpack.io/#ibrahimsn98/speedometer)
-[![](https://androidweekly.net/issues/issue-443/badge)](https://androidweekly.net/issues/issue-443)
+ 
 
-
-## GIF
-
-In-app preview
-
-<img src="https://github.com/ibrahimsn98/speedometer/blob/master/art/speedometer.gif" width="480" />
-
+ 
 ## XML Attributes
 
 ```xml
@@ -43,8 +36,6 @@ speedometer.setSpeed(95, 1000L, {
 
 ## Setup
 
-> Follow me on Twitter [@ibrahimsn98](https://twitter.com/ibrahimsn98)
-
 Step 1. Add the JitPack repository to your build file
 ```groovy
 allprojects {
@@ -57,7 +48,7 @@ allprojects {
 Step 2. Add the dependency
 ```groovy
 dependencies {
-    implementation 'com.github.ibrahimsn98:speedometer:1.0.1'
+ 
 }
 ```
 
@@ -65,7 +56,7 @@ dependencies {
 ```
 MIT License
 
-Copyright (c) 2020 İbrahim Süren
+ 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
